@@ -39,7 +39,7 @@
           역량을 집중할 것 입니다.
         </p>
         <br />
-        <p style="text-align: right; padding-right: 15px" class="font-weight-bold">대표이사 박종주</p>
+        <p style="text-align: right; padding-right: 15px" class="font-weight-bold">대표이사 정규용</p>
       </VCol>
     </VRow>
   </div>
