@@ -39,7 +39,7 @@
       FRONTIER <span class="ml-1 mr-1">|</span> 대표전화 : <a href="tel:010-7607-4451">010-7607-4451</a> <span class="ml-1 mr-1">|</span> 팩스 :
       <a href="fax:0504-163-4451">0504-163-4451</a> <span class="ml-1 mr-1">|</span> 이메일 :
       <a href="mailto:jongju0920@kakao.com">jongju0920@kakao.com</a> <br />
-      주소 : 경기 성남시 분당구 성남대로331번길 8 9층 901호
+      주소 : 강원특별자치도 고성군 죽왕면 동해대로 5582
     </div>
   </VFooter>
 </template>
