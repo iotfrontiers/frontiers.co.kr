@@ -1,7 +1,7 @@
 <template>
   <VRow class="maps-wrap" no-gutters>
     <VCol class="mb-10">
-      <span>강원특별자치도 고성군 죽왕면 동해대로 5582</span>
+      <span>강원특별자치도 고성군 토성면 용원로 650-11, 1층</span>
     </VCol>
     <VCol :cols="12" align="center">
       <!-- <div class="map-container"> -->
@@ -33,7 +33,7 @@ onMounted(async () => {
   const contentString = [
     '<div class="iw_inner">',
     '   <h3>(주) 프런티어</h3>',
-    '   <p>강원특별자치도 고성군 죽왕면 동해대로 5582<br />',
+    '   <p>강원특별자치도 고성군 토성면 용원로 650-11, 1층<br />',
 
     '       tel: <a href="tel:010-7607-4451">010-7607-4451</a><br />',
     '       e-mail: <a href="mailto:jongju0920@kakao.com">jongju0920@kakao.com</a>',
