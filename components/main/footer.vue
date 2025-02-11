@@ -11,7 +11,7 @@
           <VRow justify="end">
             <VCol>
               <span class="site">
-                <a href="//https://frontierit.vercel.app">https://frontierit.vercel.app</a>
+                <a href="//https://frontierit.vercel.app">frontierit.vercel.app</a>
               </span>
             </VCol>
             <VCol>
