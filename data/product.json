@@ -1,7 +1,7 @@
 {
   "id": "41377260-560f-42e2-a6be-9aea73481f50",
   "title": " 제품 소개",
-  "lastUpdateDate": "2024-01-10T06:15:00.000Z",
+  "lastUpdateDate": "2025-02-11T05:36:00.000Z",
   "children": [
     {
       "id": "1d42a09e-65b3-4609-93b2-315de5718a69",
@@ -12,16 +12,16 @@
     {
       "id": "479ce8a4-f821-4c73-958a-d055337f4e06",
       "title": "카달로그",
-      "lastUpdateDate": "2023-12-29T07:52:00.000Z",
+      "lastUpdateDate": "2025-02-11T05:13:00.000Z",
       "children": [],
       "linkUrl": "/notion-resources/479ce8a4-f821-4c73-958a-d055337f4e06/e2148920b8ee786b45b609e1f83b68b7.pdf"
     },
     {
       "id": "197c88ac-8c29-805a-8904-ddf62bf9910e",
       "title": "E-POSTER",
-      "lastUpdateDate": "2024-02-11T10:00:00.000Z",
+      "lastUpdateDate": "2025-02-11T05:42:00.000Z",
       "children": [],
-      "linkUrl": "https://www.notion.so/jongju/E-POSTER-197c88ac8c29805a8904ddf62bf9910e"
+      "linkUrl": "/notion-resources/197c88ac-8c29-805a-8904-ddf62bf9910e/8cdd6f4d0ed2d5556153fd9d7b6f0704.pdf"
     }
   ]
 }
